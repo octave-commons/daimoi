@@ -1,3 +1,17 @@
+---
+uuid: "orgs-octave-commons-daimoi-kanban-orgs-octave-commons-daimoi-specs-retrieval-walkers-md"
+title: "Retrieval Walkers Spec"
+status: incoming
+priority: P3
+labels: ["specs", "migrated-spec"]
+created_at: "2026-05-29T04:01:01.082Z"
+source: "orgs/octave-commons/daimoi/specs/retrieval-walkers.md"
+category: "specs"
+---
+
+> Source: `orgs/octave-commons/daimoi/specs/retrieval-walkers.md`
+> Migrated-to-kanban: `orgs/octave-commons/daimoi/kanban/retrieval-walkers.md`
+
 # Retrieval Walkers Spec
 
 ## Purpose

@@ -1,3 +1,17 @@
+---
+uuid: "orgs-octave-commons-daimoi-kanban-orgs-octave-commons-daimoi-specs-runtime-parameters-and-profiles-md"
+title: "Runtime Parameters and Profiles Spec"
+status: incoming
+priority: P3
+labels: ["specs", "migrated-spec"]
+created_at: "2026-05-29T04:01:01.083Z"
+source: "orgs/octave-commons/daimoi/specs/runtime-parameters-and-profiles.md"
+category: "specs"
+---
+
+> Source: `orgs/octave-commons/daimoi/specs/runtime-parameters-and-profiles.md`
+> Migrated-to-kanban: `orgs/octave-commons/daimoi/kanban/runtime-parameters-and-profiles.md`
+
 # Runtime Parameters and Profiles Spec
 
 ## Purpose

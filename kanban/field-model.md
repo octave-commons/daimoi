@@ -1,3 +1,17 @@
+---
+uuid: "orgs-octave-commons-daimoi-kanban-orgs-octave-commons-daimoi-specs-field-model-md"
+title: "Daimoi Field Model Spec"
+status: incoming
+priority: P3
+labels: ["specs", "migrated-spec"]
+created_at: "2026-05-29T04:01:01.081Z"
+source: "orgs/octave-commons/daimoi/specs/field-model.md"
+category: "specs"
+---
+
+> Source: `orgs/octave-commons/daimoi/specs/field-model.md`
+> Migrated-to-kanban: `orgs/octave-commons/daimoi/kanban/field-model.md`
+
 # Daimoi Field Model Spec
 
 ## Purpose
