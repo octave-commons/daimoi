@@ -1,7 +1,7 @@
 ---
 uuid: "orgs-octave-commons-daimoi-kanban-orgs-octave-commons-daimoi-specs-runtime-parameters-and-profiles-md"
 title: "Runtime Parameters and Profiles Spec"
-status: incoming
+status: accepted
 priority: P3
 labels: ["specs", "migrated-spec"]
 created_at: "2026-05-29T04:01:01.083Z"

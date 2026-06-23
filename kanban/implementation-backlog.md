@@ -1,7 +1,7 @@
 ---
 uuid: "orgs-octave-commons-daimoi-kanban-orgs-octave-commons-daimoi-specs-implementation-backlog-md"
 title: "Implementation Backlog"
-status: incoming
+status: accepted
 priority: P3
 labels: ["specs", "migrated-spec"]
 created_at: "2026-05-29T04:01:01.082Z"
